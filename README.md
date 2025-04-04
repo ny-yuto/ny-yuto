@@ -20,6 +20,6 @@
 
 ## Info
 
-![NYuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ny-yuto&count_private=true&show_icons=true&theme=dracula)
+![NYuto's GitHub stats](https://github-readme-stats-eight-rho-71.vercel.app/api?username=ny-yuto&count_private=true&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ny-yuto)](https://github.com/ny-yuto/github-readme-stats)
